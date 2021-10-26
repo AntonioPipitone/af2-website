@@ -1,9 +1,8 @@
 ---
-title: "Welcome"
+title: "Benvenuto"
 weight: 1
 ---
-Reprehenderit reprehenderit ad elit pariatur veniam dolor est irure. Est deserunt cupidatat occaecat non non duis fugiat. Tempor aute mollit non et cillum aute. Ullamco ad aute et ullamco. Consequat cillum proident cillum eiusmod. Eiusmod ea ut consectetur eu.
 
-Qui ex occaecat minim laborum consectetur anim eiusmod excepteur proident cupidatat esse qui. Cillum nulla ipsum incididunt pariatur amet fugiat est minim aliquip officia sunt cillum consectetur. Mollit duis dolor ipsum ex laboris incididunt Lorem eu aliquip adipisicing culpa adipisicing duis reprehenderit. Lorem consectetur tempor cillum magna officia sunt incididunt laborum sit labore.
+Benvenuto nel sito Web ufficiale del progetto Air Factories 2.0 - Una fabbrica distribuita per una produzione intelligente, decentralizzata, sostenibile e resiliente. Air Factories 2.0 è un progetto finanziato dal Ministero dell'Università e della Ricerca nell'ambito dell'avviso FISR 2020 COVID a valere sul Fondo Integrativo Speciale per la Ricerca.
 
-Ut laborum adipisicing irure tempor id est non eiusmod anim deserunt cupidatat. Exercitation sint cupidatat tempor occaecat ex magna exercitation. Qui adipisicing quis sint laboris velit sint fugiat dolore elit cillum. Dolore nisi commodo enim labore non culpa ea et ullamco. Dolore adipisicing sit aliquip qui ea esse.
+Il progetto Air Factories 2.0 è stato valutato tra i primi dieci progetti finanziabili nell'Area PE - Physics and Engineering con un budget complessivo di € 69.764,90. Partner unico del progetto è l'Università degli Studi di Messina.
