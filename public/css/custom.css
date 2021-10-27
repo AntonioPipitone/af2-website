@@ -6,7 +6,7 @@
     box-shadow: 0 22px 70px 4px rgba(0, 0, 0, 0.56), 0 0 0 1px rgba(0, 0, 0, 0.3);
     display: grid;
     grid-template-columns: 40% auto;
-    background: #af794d;
+    background: #2660A4;
     color: rgb(0, 0, 0);
     align-items: center;
     will-change: transform;
@@ -39,13 +39,15 @@
 }
 
 .card-avatar {
-    margin: 10px;
+    margin: 5px;
     display: grid;
     place-items: center;
 }
 
 .card-avatar img{
-    border-radius: 25%;
+    border-radius: 15%;
+    width: auto;
+    max-height: 80%;   
 }
 
 
@@ -58,18 +60,19 @@
 }
 
 .post-holder.odd {
-    background: #af794d;
+    background: #2660A4;
     color: white;
 }
 .post-after {
-    border-top-color: #af794d;
+    border-top-color: #2660A4;
 }
 .post-holder {
-    background: #f2efe8;
+    background:#FCFAFA;
 }
 
-
-
+.post-after .even {
+    background: #FCFAFA;
+}
 
 
 
@@ -118,7 +121,7 @@ textarea {
     padding: 30px;
     border: 0;
     width: 100%;
-    font-size: 1rem;
+    font-size: 2rem;
     background-color: #2d2d2d;
     color: white;
     border-radius: 4px;
@@ -135,6 +138,7 @@ textarea:focus ~ span {
 }
 
 textarea {
+    resize: none;
     width: 100%;
     min-height: 15em;
 }
