@@ -1,4 +1,4 @@
-baseURL = "https://antoniopipitone.github.io/af2-website/public"
+baseURL = "https://antoniopipitone.github.io/af2-website/public/"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
@@ -11,7 +11,7 @@ defaultContentLanguage = "it"
     [languages.en.menu]
       [[languages.en.menu.main]]
         name = 'Italian'
-        url = 'it'
+        url = ''
 
   [languages.it]
     contentDir = 'content/it'
