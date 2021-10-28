@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://antoniopipitone.github.io/af2-website/public/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://antoniopipitone.github.io/af2-website/public/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="/"
+                href="https://antoniopipitone.github.io/af2-website/public/"
                 />
   </url>
 </urlset>
