@@ -3,9 +3,28 @@ baseURL = ""
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "it"
+[languages]
 
-theme = "hugo-scroll"
+  [languages.en]
+    contentDir = 'content/en'
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        name = 'Italian'
+        url = '/it'
+
+  [languages.it]
+    contentDir = 'content/it'
+
+       [languages.it.menu]
+        [[languages.it.menu.main]]
+          name = 'English'
+          url = '/en'
+
+
+
+
 
 
 # The "title" of your website

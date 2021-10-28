@@ -74,8 +74,12 @@
     background: #FCFAFA;
 }
 
-
-
+a.site-menu-lang{
+    background-color: #2660A4;
+}
+a.site-menu-lang:hover{
+    background-color: #16375e;
+}
 
 
 input:focus ~ label, textarea:focus ~ label, input:valid ~ label, textarea:valid ~ label {

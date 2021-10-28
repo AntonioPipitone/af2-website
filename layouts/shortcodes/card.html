@@ -1,7 +1,7 @@
 
 <div class="card">
     <div class="card-avatar">
-        <img src="images/team/{{.Get "imgName"}}">
+        <img src="{{ . | absURL }}/images/team/{{.Get "imgName" }}">
     </div>
 
     <div class="card-details">
@@ -13,4 +13,3 @@
     </div>
 </div>
 <br>
-
