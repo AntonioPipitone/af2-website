@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://air-factories-2-0.github.io/af2-website/en/</loc>
+    <loc>https://air-factories-2-0.github.io/af2-website/public/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://air-factories-2-0.github.io/af2-website/"
+                href="https://air-factories-2-0.github.io/af2-website/public/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://air-factories-2-0.github.io/af2-website/en/"
+                href="https://air-factories-2-0.github.io/af2-website/public/en/"
                 />
   </url>
   
