@@ -1,48 +1,48 @@
 ---
-title: "La squadra"
+title: "Team"
 weight: 3
 header_menu: true
 ---
 
-Data l'intrinseca multidisciplinarietà degli obiettivi, il progetto prevede la collaborazione di 4 unità di personale universitario afferente a settori scientifico disciplinari nelle aree 03 e 09. Il principal investigator (ING-INF/05) presenta competenze importanti, attestate dalla produzione scientifica, sull'utilizzo di tecnologie blockchain, smart contract e crypto-processor per la realizzazione di piattaforme decentralizzate. Le altre unità coinvolte forniranno le proprie competenze nell'ambito della realizzazione della infrastruttura materiale (macchine di stampa 3D) e dei processi di controllo qualità (ING-IND/14 e ING-IND/15) e nell'analisi dei materiali per le attività di identificazione (CHIM/07). Un gruppo di borsisti di ricerca si è unito al progetto con entusiamo ed è già al lavoro per l'implementazione della piattaforma.
+Given the intrinsic multidisciplinarity of the objectives, the project involves the collaboration of 4 university staff units related to disciplinary scientific fields in areas 03 and 09. The principal investigator (ING-INF/05) has important skills, attested by scientific production, on the use of blockchain, smart contract and crypto-processor technologies for the implementation of decentralized platforms. The other units involved will provide expertise in the implementation of physical infrastructure (3D printing machines) and quality control processes (ING-IND/14 and ING-IND/15) and in the analysis of materials for identification activities (CHIM/07). 
+A group of research fellows joined the project with enthusiasm and are already working on the implementation of the platform.
 
 
-{{< card nome="Francesco Longo" ruolo="Ricercatore TD di tipo B" imgName="photo_longo.jpg">}}
-Esperto di Cloud Continuum, Internet of Things, Blockchain, Smart City, Industry 4.0.
-Principal Investigator del progetto, si occupa della progettazione della piattaforma Air Factories 2.0.
+{{< card nome="Francesco Longo" ruolo="Type B Fixed-Term Researcher" imgName="photo_longo.jpg">}}
+Cloud Continuum, Internet of Things, Blockchain, Smart City, Industry 4.0 expert. Principal Investigator of the project, he is in charge of the design of the Air Factories 2.0 platform.
 {{< /card >}}
 
-{{< card nome="Giacomo Risitano" ruolo="Professore Associato" imgName="user.jpeg">}}
+{{< card nome="Giacomo Risitano" ruolo="Associate Professor" imgName="user.jpeg">}}
     Descrizione
     Aute et et cillum ullamco aliqua 
 {{< /card >}}
 
-{{< card nome="Filippo Cucinotta" ruolo="Professore Associato" imgName="user.jpeg">}}
+{{< card nome="Filippo Cucinotta" ruolo="Associate Professor" imgName="user.jpeg">}}
     Descrizione
     Aute et et cillum ullamco aliqua 
 {{< /card >}}
 
-{{< card nome="Candida Milone" ruolo="Professore Ordinario" imgName="user.jpeg">}}
+{{< card nome="Candida Milone" ruolo="Associate Professor" imgName="user.jpeg">}}
     Descrizione
     Aute et et cillum ullamco aliqua
 {{< /card >}}
 
-{{< card nome="Antonio Pipitone" ruolo="Borsista di ricerca" imgName="user.jpeg">}}
+{{< card nome="Antonio Pipitone" ruolo="Research Fellow" imgName="user.jpeg">}}
     Descrizione
     Aute et et cillum ullamco aliqua
 {{< /card >}}
 
-{{< card nome="Gabriele Marabello" ruolo="Borsista di ricerca" imgName="user.jpeg">}}
+{{< card nome="Gabriele Marabello" ruolo="Research Fellow" imgName="user.jpeg">}}
     Descrizione
     Aute et et cillum ullamco aliqua
 {{< /card >}}
 
-{{< card nome="Attilio Azzarelli" ruolo="Borsista di ricerca" imgName="user.jpeg">}}
+{{< card nome="Attilio Azzarelli" ruolo="Research Fellow" imgName="user.jpeg">}}
     Descrizione
     Aute et et cillum ullamco aliqua
 {{< /card >}}
 
-{{< card nome="Marcello Raffaele" ruolo="Dottorando" imgName="user.jpeg">}}
+{{< card nome="Marcello Raffaele" ruolo="PhD Student" imgName="user.jpeg">}}
     Descrizione
     Aute et et cillum ullamco aliqua
 {{< /card >}}

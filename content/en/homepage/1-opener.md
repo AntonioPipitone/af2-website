@@ -1,8 +1,8 @@
 ---
-title: "Benvenuto"
+title: "Welcome"
 weight: 1
 ---
 
-Benvenuto nel sito Web ufficiale del progetto Air Factories 2.0 - Una fabbrica distribuita per una produzione intelligente, decentralizzata, sostenibile e resiliente. Air Factories 2.0 è un progetto finanziato dal Ministero dell'Università e della Ricerca nell'ambito dell'avviso FISR 2020 COVID a valere sul Fondo Integrativo Speciale per la Ricerca.
+Welcome to the official website of the Air Factories 2.0 project - A distributed factory for smart, decentralized, sustainable and resilient production. Air Factories 2.0 is a project funded by the Ministry of University and Research under the FISR 2020 COVID notice from the Special Supplementary Research Fund.
 
-Il progetto Air Factories 2.0 è stato valutato tra i primi dieci progetti finanziabili nell'Area PE - Physics and Engineering con un budget complessivo di € 69.764,90. Partner unico del progetto è l'Università degli Studi di Messina.
+The Air Factories 2.0 project was rated among the top ten projects eligible for funding in the PE Area - Physics and Engineering with a total budget of €69,764.90. The only partner of the project is the University of Messina.
