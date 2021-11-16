@@ -23,14 +23,11 @@ defaultContentLanguage = "it"
 
 
 
-
-
-
 # The "title" of your website
 title = "Air Factories 2.0"
 
 [params]
-    copyright = "© copyright"
+    copyright = "© Air Factories 2.0"
 
     description = ""
 
@@ -41,8 +38,8 @@ title = "Air Factories 2.0"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = ""
+    title = "Air Factories 2.0"
 
 
     [params.meta]
-        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+        keywords = "3D, printer, blockchain, ethereum, distributed app, dapp, factories, air factories"
