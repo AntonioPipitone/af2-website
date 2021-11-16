@@ -1,5 +1,5 @@
 ---
-title: "Cos'è Air Factories 2.0?"
+title: "What is Air Factories 2.0?"
 weight: 2
 header_menu: true
 ---
@@ -9,40 +9,28 @@ header_menu: true
 
 ---
 
-#### L'esperienza Air Factories
+#### The Air Factories experience
 
-Durante il picco dell'emergenza COVID-19, alcuni ricercatori del Dipartimento
-di Ingegneria dell'Università di Messina, con il supporto di alcune startup innovative, hanno
-realizzato una infrastruttura immateriale che ha permesso di mettere agilmente in rete la
-capacità di produzione di 3D maker volontari. La piattaforma no-profit "Air Factories"
-(www.airfactories.org) ha gestito decine di call-to-action provenienti da strutture pubbliche
-e coordinato l'azione di centinaia di 3D maker in tutta Italia secondo la teoria della "fabbrica
-distribuita". Anche sotto stress, la piattaforma si è dimostrata agile e responsiva. In poche
-settimane ha permesso la realizzazione di più di 4000 pezzi. Tra gli oltre 40 committenti,
-hanno figurato l'Ospedale Niguarda di Milano, il Gemelli di Roma, la Croce Rossa Italiana e
-la Protezione Civile della Regione Lombardia. Le produzioni più richieste sono state: visiere
-protettive, valvole e connettori per ventilatori polmonari, tendi-mascherine. Del progetto
-hanno parlato, tra gli altri, il Corriere.it il 20 Aprile e il tg Leonardo di Rai 3 il 19 Maggio.
+During the peak of the COVID-19 emergency, some researchers of the Department of Engineering of the University of Messina, with the support of some innovative startups, have realized an immaterial infrastructure that has allowed to easily put on the net the production capacity of 3D maker volunteers. The non-profit platform "Air Factories"  (www.airfactories.org) managed dozens of calls to-action from public structures and coordinated the action of hundreds of 3D makers throughout Italy according to the theory of the "distributed factory". Even under stress, the platform has proven itself agile and responsive. In a few weeks, it allowed the realization of more than 4000 pieces. Among the more than 40 clients, there were the Niguarda Hospital in Milan, the Gemelli Hospital in Rome, the Italian Red Cross and the Civil Protection of the Region Lombardia. The most requested productions were: protective visors, valves and connectors for lung ventilators, tensioners for masks. Corriere.it spoke on the project,among others, on the news of 20th April as well as Tg Leonardo Rai 3 on 19th May.
 
-#### Che problemi abbiamo riscontrato?
+#### What problems have we encountered?
 
-Il principale problema della piattaforma Air Factories è stata l'impossibilità di certificare i processi
-produttivi e quindi i prodotti realizzati, per via delle numerose incognite relative al reale
-rispetto dei parametri di stampa da parte dei 3D maker coinvolti. Ciò ha reso impossibile la
-distribuzione di dispositivi medicali o di protezione individuale nella fasi successive al
-lockdown, una volta cessata la condizione di comprovata emergenza. Si è quindi rilevata la
-necessità di re-ingegnerizzare la piattaforma, superando le difficoltà riscontrate per la
-certificazione dei prodotti. Ciò per consentire una risposta efficace sia nella fase di
-emergenza che in quella di superamento dell'emergenza, grazie alla produzione di
-dispositivi ufficialmente distribuibili. La nuova piattaforma sarà utile anche nel caso di
-emergenze future, di qualunque natura, in quanto in grado di prototipare e produrre nuovi
-dispositivi emergenziali con tempi di risposta rapidi.
+The main problem of the Air Factories platform was the impossibility of certifying the production processes and therefore the products produced, because of the numerous uncertainties related to the  real compliance of the printing parameters by the 3D makers involved. This has made it impossible to deploy medical or personal protective equipment in the post-lockdown stages, once the proven  emergency condition has ceased. The need to re-engineer the platform was therefore identified,  overcoming the difficulties encountered in the certification of products. This is to allow an effective response both in the emergency phase and in the overcoming of the emergency, thanks to the production devices that can be officially distributed. The new platform will also be useful in  case of future emergencies, of any nature, as it can prototype and produce new emergency devices  with fast response times.
 
-#### Lo scenario di riferimento
+#### The baseline scenario
 
-Scopo finale del progetto Air Factories 2.0 è l'implementazione di una catena di produzione intelligente,decentralizzata, sostenibile e resiliente che consenta la prototipazione rapida di nuoviprogetti e garantisca la certificabilità dei pezzi prodotti. Gli attori coinvolti sono i seguenti: -Air Designer: mettono a punto nuovi progetti da produrre nella fabbrica distribuita e la utilizzano per la prototipazione dei primi pezzi. - Air Maker: agiscono sia da validatori dei progetti in fase di prototipazione del prodotto che da produttori di pezzi finiti. - Air Caller: sono coloro che richiedono la produzione di un certo numero di pezzi finiti da parte della fabbrica distribuita. - Air Admin: agiscono da gestori della fabbrica mappando semi-automaticamente le richieste con la capacità di produzione degli Air Maker. L'attuale versione della piattaforma Air Factories mette in comunicazione Air Caller e Air Makertramite la mediazione degli Air Admin. Essa è centralizzata e svolge il suo compito in modo non strutturalmente trasparente e verificabile dall'esterno. Gli Air Maker utilizzano classiche stampanti 3D per cui la produzione non è verificabile da remoto. Infine, la raccomandazionedel materiale da utilizzare per la stampa è stata finora applicata su basi prettamente fiduciarie.
+The final aim of the Air Factories 2.0 project is the implementation of an intelligent, decentralized, sustainable and resilient production chain that allows the rapid prototyping of new projects and guarantees the certifiability of the parts produced. The actors involved are the following:
+- Air Designer: they develop new projects to be produced in the distributed factory and use it for the prototyping of the first pieces;
+- Air Makers: they act both as validators of the projects in the prototyping phase of the product and as producers of finished pieces;
+- Air Caller: are those who require the production of a certain number of finished pieces by the distributed factory;
+- Air Admin: act as factory managers by semi-automatically mapping requests with the production capacity of the Air Makers.
+The current version of the Air Factories platform connects Air Caller and Air Maker through the mediation of the Air Admin. It is centralized and carries out its task in a way that is not structurally transparent and verifiable from the outside. The Air Makers use classic 3D printers for which the production is not remotely verifiable. Finally, the recommendation of the material to be used for printing has so far been applied on a purely trust basis.
 
 
-#### L'idea progettuale di Air Factories 2.0
+#### The design idea of Air Factories 2.0
 
-Obiettivo principale del progetto Air Factories 2.0 è relativo alla progettazione,implementazione e testing dei seguenti deliverable: - Air Factories 2.0: nuova piattaforma software basata sull'utilizzo di tecnologie blockchain. Requisito fondamentale è limitare il ruolo degli Air Admin. Potenzialmente tale ruolo dovrebbe sparire per rendere la fabbrica una infrastruttura totalmente decentralizzata e trasparente. - Air Kit: kit universale basato su tecnologie a crypto-processor, per la trasformazione di classiche stampanti 3D in nodi della rete blockchain che costituirà la fabbrica distribuita. - Air Printer: stampante 3D "a basso costo", modulare e con Air Kit incorporato, che consenta a chiunque di costruire, partendo dalle materie prime, un'entità costituente la fabbrica distribuita, abbattendo costi e tempi di logistica. Ulteriore obiettivo del progetto è l'applicazione di metodologie per l'identificazione remota dei materiali usati in produzione al fine della compatibilità biologica in funzione dei diversi prodotti.
+The main objective of the Air Factories 2.0 project is related to the design, implementation and testing of the following deliverables:
+- Air Factories 2.0: new software platform based on the use of blockchain technologies. A fundamental requirement is to limit the role of the Air Admin. Potentially this role should disappear to make the factory a totally decentralized and transparent infrastructure;
+- Air Kit: universal kit based on crypto-processor technologies, for the transformation of classic 3D printers into nodes of the blockchain network that will make up the distributed factory;
+- Air Printer: "low cost" 3D printer, modular and with built-in Air Kit, which allows anyone to build, starting from raw materials, an entity constituting the distributed factory, reducing costs and logistics times.
+A further objective of the project is the application of methodologies for the remote identification of the materials used in production for the purpose of biological compatibility according to the different products.
