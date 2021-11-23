@@ -45,14 +45,20 @@
 }
 
 .card-avatar img{
+    position: absolute;
+    top: 10px;
     border-radius: 15%;
-    width: auto;
-    max-height: 80%;   
+    width: 30%;
+    max-height: 80%;
+    height: auto;
+    
+    object-fit: cover;
+    
 }
 
 
 .blog-title{
-    color: #9fd067;
+    color: #2661a4;
 }
 
 .blog-description{
