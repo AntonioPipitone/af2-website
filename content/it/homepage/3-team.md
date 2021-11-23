@@ -13,7 +13,7 @@ Principal Investigator del progetto, si occupa della progettazione della piattaf
 {{< /card >}}
 
 {{< card nome="Giacomo Risitano" ruolo="Professore Associato" imgName="grisitano.JPG">}}
-Marito di Carolina e papà di Nina. Professore di Costruzione di Macchine all’Università degli Studi di Messina. Esperto di fatica. Ingegnere. Startupper. Innovatore. Vice Coordinatore del Dottorato di Ricerca in “Bioingegneria Applicata alle Scienze Mediche” UNIME. Faculty Advisor di SIC e Vice Faculty Advisor di ZeD UNIME. Co-Fouder delle startup innovative Neural e KnoWoW. Patito di videogame, fumetti, moto e auto. Ascolta gli Strokes mentre vede Sons of Anarchy, sorseggiando un Gin Tonic con Hendrick's, leggendo “100 anni di solitudine”, giocando a Street Fighter, guidando una Ducati Moster del ‘98 a carburatore. Nerd.
+Professore di Costruzione di Macchine all’Università degli Studi di Messina. Faculty Advisor di SIC e Vice Faculty Advisor di ZeD UNIME. Si occupa della progettazione e realizzazione del sistema e degli apparati di "Air Kit" e "Air Printer".
 {{< /card >}}
 
 {{< card nome="Filippo Cucinotta" ruolo="Professore Associato" imgName="user.jpeg">}}
@@ -32,7 +32,7 @@ Marito di Carolina e papà di Nina. Professore di Costruzione di Macchine all’
 {{< /card >}}
 
 {{< card nome="Gabriele Marabello" ruolo="Borsista di ricerca" imgName="gmarabello.jpeg">}}
-    Laureato in Ingegneria Industriale. Esperto in campo di: additive manufacturing, rapid prototyping, computer-aided design, finite element method, computational fluid dynamics. Si occupa della progettazione e realizzazione del sistema e degli apparati di “Air Kit” e “Air Printer”.
+    Laureato in Ingegneria Industriale. Esperto in campo di: additive manufacturing, rapid prototyping, computer-aided design, finite element method, computational fluid dynamics. Si occupa della progettazione e realizzazione del sistema e degli apparati di "Air Kit" e "Air Printer".
 {{< /card >}}
 
 {{< card nome="Attilio Azzarelli" ruolo="Borsista di ricerca" imgName="user.jpeg">}}
