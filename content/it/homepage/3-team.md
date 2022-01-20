@@ -36,8 +36,7 @@ Professore di Costruzione di Macchine all’Università degli Studi di Messina. 
 {{< /card >}}
 
 {{< card nome="Attilio Azzarelli" ruolo="Borsista di ricerca" imgName="user.jpeg">}}
-    Descrizione
-    Aute et et cillum ullamco aliqua
+    Ingegnere informatico e da sempre appassionato di scienza e tecnologia. In Air Factories 2.0 si occupa della progettazione ed implementazione del sistema embedded per la raccolta e l'analisi dei dati sul processo di stampa 3D.
 {{< /card >}}
 
 {{< card nome="Marcello Raffaele" ruolo="Dottorando" imgName="user.jpeg">}}
