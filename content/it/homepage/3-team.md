@@ -16,9 +16,8 @@ Principal Investigator del progetto, si occupa della progettazione della piattaf
 Professore di Costruzione di Macchine all’Università degli Studi di Messina. Faculty Advisor di SIC e Vice Faculty Advisor di ZeD UNIME. Si occupa della progettazione e realizzazione del sistema e degli apparati di "Air Kit" e "Air Printer".
 {{< /card >}}
 
-{{< card nome="Filippo Cucinotta" ruolo="Professore Associato" imgName="user.jpeg">}}
-    Descrizione
-    Aute et et cillum ullamco aliqua 
+{{< card nome="Filippo Cucinotta" ruolo="Professore Associato" imgName="fcucinotta.jpeg">}}
+Docente di Disegno industriale e Modellazione 3D, si occupa di progettazione orientata all'Additive Manufacturing, ottimizzazioni topologiche e green design. Per Airfactories 2.0 si occupa di coordinare le macchine di stampa 3D e le attività di disegno dei prodotti.
 {{< /card >}}
 
 {{< card nome="Candida Milone" ruolo="Professore Ordinario" imgName="user.jpeg">}}
@@ -26,9 +25,8 @@ Professore di Costruzione di Macchine all’Università degli Studi di Messina. 
     Aute et et cillum ullamco aliqua
 {{< /card >}}
 
-{{< card nome="Antonio Pipitone" ruolo="Borsista di ricerca" imgName="user.jpeg">}}
-    Descrizione
-    Aute et et cillum ullamco aliqua
+{{< card nome="Antonio Pipitone" ruolo="Borsista di ricerca" imgName="apipitone.jpeg">}}
+Laureato triennale in Informatica. Appassionato di Blockchain e Web 3.0, in passato ha fatto esperienza tramite l'utilizzo del framework Hyperledger Fabric per lo sviluppo di Blockchain permissioned. Si occupa della creazione degli Smart Contracts di Ethereum, il chaincode di Hyperledger e il front-end di Air Factories 2.0.
 {{< /card >}}
 
 {{< card nome="Gabriele Marabello" ruolo="Borsista di ricerca" imgName="gmarabello.jpeg">}}
