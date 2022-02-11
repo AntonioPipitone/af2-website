@@ -16,6 +16,7 @@
     transform: scale(1.1);
     box-shadow: 0 32px 80px 14px rgba(0, 0, 0, 0.36), 0 0 0 1px rgba(0, 0, 0, 0.3);
 }
+
 .card .name{
     font-weight: bolder;
 }
@@ -48,10 +49,17 @@
     top: 10px;
     border-radius: 15%;
     width: 30%;
-    max-height: 80%;
     height: auto;
+    max-height: 80%;
     object-fit: cover;
 }
+
+
+
+
+
+
+
 
 
 .blog-title{
