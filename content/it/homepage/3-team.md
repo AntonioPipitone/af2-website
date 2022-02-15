@@ -28,15 +28,15 @@ Docente di Fondamenti Chimici delle Tecnologie. In Air Factories si occupa del r
 {{< /card >}}
 
 {{< card nome="Antonio Pipitone" ruolo="Borsista di ricerca" imgName="apipitone.jpeg">}}
-Laureato triennale in Informatica. Appassionato di Blockchain e Web 3.0, in passato ha fatto esperienza tramite l'utilizzo del framework Hyperledger Fabric per lo sviluppo di Blockchain permissioned. Si occupa della creazione degli Smart Contracts di Ethereum, il chaincode di Hyperledger e il front-end di Air Factories 2.0.
+Laureato in Informatica. Appassionato di Blockchain e Web 3.0, in passato ha fatto esperienza tramite l'utilizzo del framework Hyperledger Fabric per lo sviluppo di Blockchain permissioned. Si occupa della creazione degli Smart Contracts di Ethereum, il chaincode di Hyperledger e il front-end di Air Factories 2.0.
 {{< /card >}}
 
 {{< card nome="Gabriele Marabello" ruolo="Borsista di ricerca" imgName="gmarabello.jpeg">}}
 Laureato in Ingegneria Industriale. Esperto in campo di: additive manufacturing, rapid prototyping, computer-aided design, finite element method, computational fluid dynamics. Si occupa della progettazione e realizzazione del sistema e degli apparati di "Air Kit" e "Air Printer".
 {{< /card >}}
 
-{{< card nome="Attilio Azzarelli" ruolo="Borsista di ricerca" imgName="user.jpeg">}}
-Ingegnere informatico e da sempre appassionato di scienza e tecnologia. In Air Factories 2.0 si occupa della progettazione ed implementazione del sistema embedded per la raccolta e l'analisi dei dati sul processo di stampa 3D.
+{{< card nome="Attilio Azzarelli" ruolo="Borsista di ricerca" imgName="aazzarelli.PNG">}}
+Ingegnere Informatico e da sempre appassionato di scienza e tecnologia. In Air Factories 2.0 si occupa della progettazione ed implementazione del sistema embedded per la raccolta e l'analisi dei dati sul processo di stampa 3D.
 {{< /card >}}
 
 {{< card nome="Marcello Raffaele" ruolo="Dottorando" imgName="mraffaele.jpg">}}

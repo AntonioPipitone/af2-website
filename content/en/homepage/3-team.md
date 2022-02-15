@@ -35,7 +35,7 @@ Graduated in Computer Science. Blockchain and Web 3.0 Enthusiast, in the past he
 Laureato in Ingegneria Industriale. Esperto in campo di: additive manufacturing, rapid prototyping, computer-aided design, finite element method, computational fluid dynamics. Si occupa della progettazione e realizzazione del sistema e degli apparati di "Air Kit" e "Air Printer".
 {{< /card >}}
 
-{{< card nome="Attilio Azzarelli" ruolo="Research Fellow" imgName="user.jpeg">}}
+{{< card nome="Attilio Azzarelli" ruolo="Research Fellow" imgName="aazzarelli.PNG">}}
 Ingegnere informatico e da sempre appassionato di scienza e tecnologia. In Air Factories 2.0 si occupa della progettazione ed implementazione del sistema embedded per la raccolta e l'analisi dei dati sul processo di stampa 3D.
 {{< /card >}}
 
