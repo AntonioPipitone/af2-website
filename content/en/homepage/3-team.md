@@ -36,7 +36,7 @@ Graduated in Industrial Engineering. Expert in: additive manufacturing, rapid pr
 {{< /card >}}
 
 {{< card nome="Attilio Azzarelli" ruolo="Research Fellow" imgName="aazzarelli.PNG">}}
-Computer engineer and always passionate about science and technology. In Air Factories 2.0 he deals with the design and implementation of the embedded system for the collection and analysis of data on the 3D printing process.
+Computer Engineer and always passionate about science and technology. In Air Factories 2.0 he deals with the design and implementation of the embedded system for the collection and analysis of data on the 3D printing process.
 {{< /card >}}
 
 {{< card nome="Marcello Raffaele" ruolo="PhD Student" imgName="mraffaele.jpg">}}
