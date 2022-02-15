@@ -13,7 +13,7 @@ Cloud Continuum, Internet of Things, Blockchain, Smart City, Industry 4.0 expert
 {{< /card >}}
 
 {{< card nome="Giacomo Risitano" ruolo="Associate Professor" imgName="grisitano.JPG">}}
-Professore di Costruzione di Macchine all’Università degli Studi di Messina. Faculty Advisor di SIC e Vice Faculty Advisor di ZeD UNIME. Si occupa della progettazione e realizzazione del sistema e degli apparati di "Air Kit" e "Air Printer".
+Professor of Machine Construction at the University of Messina. Faculty Advisor of SIC and Vice Faculty Advisor of ZeD UNIME. For Air Factories 2.0 he deals with the design and construction of the system and the "Air Kit" and "Air Printer" equipment.
 {{< /card >}}
 
 {{< card nome="Filippo Cucinotta" ruolo="Associate Professor" imgName="fcucinotta.jpeg">}}
@@ -21,7 +21,7 @@ Professor of Technical drawing and 3D Modeling, he works on Additive Manufacturi
 {{< /card >}}
 
 {{< card nome="Candida Milone" ruolo="Associate Professor" imgName="cmilone.jpeg">}}
-Docente di Fondamenti Chimici delle Tecnologie. In Air Factories si occupa del riconoscimento remoto dei materiali di stampa.
+Professor of Chemical Foundations of Technologies. In Air Factories he deals with the remote recognition of print materials.
 <br>
 <br>
 <br>
@@ -32,11 +32,11 @@ Graduated in Computer Science. Blockchain and Web 3.0 Enthusiast, in the past he
 {{< /card >}}
 
 {{< card nome="Gabriele Marabello" ruolo="Research Fellow" imgName="gmarabello.jpeg">}}
-Laureato in Ingegneria Industriale. Esperto in campo di: additive manufacturing, rapid prototyping, computer-aided design, finite element method, computational fluid dynamics. Si occupa della progettazione e realizzazione del sistema e degli apparati di "Air Kit" e "Air Printer".
+Graduated in Industrial Engineering. Expert in: additive manufacturing, rapid prototyping, computer-aided design, finite element method, computational fluid dynamics. In Air Factories 2.0 he deals with the design and construction of the system and the "Air Kit" and "Air Printer" equipment.
 {{< /card >}}
 
 {{< card nome="Attilio Azzarelli" ruolo="Research Fellow" imgName="aazzarelli.PNG">}}
-Ingegnere informatico e da sempre appassionato di scienza e tecnologia. In Air Factories 2.0 si occupa della progettazione ed implementazione del sistema embedded per la raccolta e l'analisi dei dati sul processo di stampa 3D.
+Computer engineer and always passionate about science and technology. In Air Factories 2.0 he deals with the design and implementation of the embedded system for the collection and analysis of data on the 3D printing process.
 {{< /card >}}
 
 {{< card nome="Marcello Raffaele" ruolo="PhD Student" imgName="mraffaele.jpg">}}
