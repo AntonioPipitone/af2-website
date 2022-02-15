@@ -7,6 +7,7 @@ defaultContentLanguage = "it"
 [languages]
 
   [languages.en]
+    title = "Air Factories 2.0"
     contentDir = 'content/en'
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -14,6 +15,7 @@ defaultContentLanguage = "it"
         url = ''
 
   [languages.it]
+    title = "Air Factories 2.0"
     contentDir = 'content/it'
 
        [languages.it.menu]
